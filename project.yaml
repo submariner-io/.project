@@ -25,7 +25,7 @@ repositories:
 
 website: "https://submariner.io"
 
-artwork: "https://landscape.cncf.io/logos/submariner.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/submariner"
 
 adopters:
   path: "https://github.com/submariner-io/submariner/blob/devel/ADOPTERS.md"
